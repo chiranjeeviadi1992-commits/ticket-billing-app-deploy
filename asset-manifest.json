@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ticket-billing-app/static/css/main.3b71cc2a.css",
-    "main.js": "/ticket-billing-app/static/js/main.9c6fa10a.js",
-    "static/js/239.a1952486.chunk.js": "/ticket-billing-app/static/js/239.a1952486.chunk.js",
-    "static/js/977.e6439c0d.chunk.js": "/ticket-billing-app/static/js/977.e6439c0d.chunk.js",
-    "static/js/455.acce6bae.chunk.js": "/ticket-billing-app/static/js/455.acce6bae.chunk.js",
-    "static/js/453.ccb6c071.chunk.js": "/ticket-billing-app/static/js/453.ccb6c071.chunk.js",
-    "index.html": "/ticket-billing-app/index.html",
-    "main.3b71cc2a.css.map": "/ticket-billing-app/static/css/main.3b71cc2a.css.map",
-    "main.9c6fa10a.js.map": "/ticket-billing-app/static/js/main.9c6fa10a.js.map",
-    "239.a1952486.chunk.js.map": "/ticket-billing-app/static/js/239.a1952486.chunk.js.map",
-    "977.e6439c0d.chunk.js.map": "/ticket-billing-app/static/js/977.e6439c0d.chunk.js.map",
-    "455.acce6bae.chunk.js.map": "/ticket-billing-app/static/js/455.acce6bae.chunk.js.map",
-    "453.ccb6c071.chunk.js.map": "/ticket-billing-app/static/js/453.ccb6c071.chunk.js.map"
+    "main.css": "/ticket-billing-app-deploy/static/css/main.3b71cc2a.css",
+    "main.js": "/ticket-billing-app-deploy/static/js/main.2443a468.js",
+    "static/js/239.a1952486.chunk.js": "/ticket-billing-app-deploy/static/js/239.a1952486.chunk.js",
+    "static/js/977.e6439c0d.chunk.js": "/ticket-billing-app-deploy/static/js/977.e6439c0d.chunk.js",
+    "static/js/455.acce6bae.chunk.js": "/ticket-billing-app-deploy/static/js/455.acce6bae.chunk.js",
+    "static/js/453.ccb6c071.chunk.js": "/ticket-billing-app-deploy/static/js/453.ccb6c071.chunk.js",
+    "index.html": "/ticket-billing-app-deploy/index.html",
+    "main.3b71cc2a.css.map": "/ticket-billing-app-deploy/static/css/main.3b71cc2a.css.map",
+    "main.2443a468.js.map": "/ticket-billing-app-deploy/static/js/main.2443a468.js.map",
+    "239.a1952486.chunk.js.map": "/ticket-billing-app-deploy/static/js/239.a1952486.chunk.js.map",
+    "977.e6439c0d.chunk.js.map": "/ticket-billing-app-deploy/static/js/977.e6439c0d.chunk.js.map",
+    "455.acce6bae.chunk.js.map": "/ticket-billing-app-deploy/static/js/455.acce6bae.chunk.js.map",
+    "453.ccb6c071.chunk.js.map": "/ticket-billing-app-deploy/static/js/453.ccb6c071.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b71cc2a.css",
-    "static/js/main.9c6fa10a.js"
+    "static/js/main.2443a468.js"
   ]
 }
